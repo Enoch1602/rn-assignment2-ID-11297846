@@ -2,5 +2,5 @@
 second app development assignment.
 Student ID: 11297846.
 NAME: Boadi Danso.
-![screenshot](C:\Users\LAPTOP\Desktop\screenshot)
+![screenshot](C:\Users\LAPTOP\Desktop\screenshot\assignment two screenshot.jpg)
 
